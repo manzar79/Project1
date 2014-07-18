@@ -27,6 +27,8 @@ C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\System.Web.WebPages.Deploym
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\System.Web.WebPages.dll
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\System.Web.WebPages.Razor.dll
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\WebGrease.dll
+C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\EntityFramework.xml
+C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\EntityFramework.SqlServer.xml
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\System.Web.Helpers.xml
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\System.Web.Mvc.xml
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\System.Web.Optimization.xml
@@ -36,8 +38,6 @@ C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\System.Web.WebPages.Deploym
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\System.Web.WebPages.Razor.xml
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\Antlr3.Runtime.pdb
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\Newtonsoft.Json.xml
-C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\EntityFramework.xml
-C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\EntityFramework.SqlServer.xml
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\Microsoft.AspNet.Identity.Owin.xml
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
@@ -52,3 +52,4 @@ C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\Microsoft.Owin.Security.Twi
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\obj\Debug\Xyz.dll
 C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\obj\Debug\Xyz.pdb
+C:\Users\Grand\Documents\GitHub\Project1\Xyz\Xyz\obj\Debug\Xyz.csprojResolveAssemblyReference.cache
